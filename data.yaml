@@ -5,11 +5,6 @@ test: C:\Users\SaiRamPenjarla\Desktop\Project\YOLOV10\archive\working\test\image
 
 
 nc: 3
-# names: ['free_parking_space', 'not_free_parking_space', 'partially_free_parking_space']
-# names:
-#   0: free_parking_space
-#   1: not_free_parking_space
-#   2: partially_free_parking_space
 names:
 - free_parking_space
 - not_free_parking_space

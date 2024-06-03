@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/SaiRamPenjarla/Desktop/Project/YOLOV10/runs/mlflow/518993673236156650/828d7e6767044400978b1d13e9ca8d12/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '518993673236156650'
+lifecycle_stage: active
+run_id: 828d7e6767044400978b1d13e9ca8d12
+run_name: train5
+run_uuid: 828d7e6767044400978b1d13e9ca8d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717415772621
+status: 1
+tags: []
+user_id: SaiRamPenjarla
